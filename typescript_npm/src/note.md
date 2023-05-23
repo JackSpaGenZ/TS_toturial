@@ -19,7 +19,7 @@ TypeScript toturial
                                     example distance : number | string 
                                     if(typeof distance === "number")
                                     if(typeof distance === "string")
-                                    + Intersection type is summerize styles of types from different types to create a new object | new type  
+                                    + Intersection type is summerize styles of types from   different types to create a new object | new type  
         - Type narrowing
         - Nullable types 
         - Unknown type
